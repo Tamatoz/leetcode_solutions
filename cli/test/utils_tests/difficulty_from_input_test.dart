@@ -1,6 +1,6 @@
 import 'package:leetcode_solutions/difficulty_model.dart';
 import 'package:leetcode_solutions/utils.dart';
-import 'package:flutter_test/flutter_test.dart';
+import 'package:test/test.dart';
 
 void main() {
   group('difficultyByIndex', () {
